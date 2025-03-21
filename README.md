@@ -31,7 +31,14 @@ A **Node.js + Express + MongoDB** REST API for managing expenses and employees.
 │-- 📄 package.json  
 │-- 📄 README.md     
 
+---
 
-
-
+## 📌 API Endpoints
+### 👨‍💼 Employee Routes
+| Method | Endpoint | Description |
+|--------|---------|-------------|
+| `GET` | `/employees` | Get all employees |
+| `POST` | `/employees` | Add new employee |
+| `PUT` | `/employees/:id` | Update employee |
+| `DELETE` | `/employees/:id` | Delete employee |
 
