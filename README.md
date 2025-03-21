@@ -22,6 +22,7 @@ A **Node.js + Express + MongoDB** REST API for managing expenses and employees.
 ## 📂 Project Structure
 
 📦 Expense & Employee Management API
+
 │-- 📁 controller    # Business logic for expenses & employees  
 │-- 📁 model         # Mongoose schemas  
 │-- 📁 routes        # Express routes for API endpoints  
