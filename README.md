@@ -18,3 +18,14 @@ A **Node.js + Express + MongoDB** REST API for managing expenses and employees.
 - **Database**: MongoDB, Mongoose
 - **Environment Management**: dotenv
 
+📦 Expense & Employee Management API
+│-- 📁 controller         # Business logic for expenses & employees
+│-- 📁 model              # Mongoose schemas
+│-- 📁 routes             # Express routes for API endpoints
+│-- 📄 index.js           # Main server entry point
+│-- 📄 .gitignore         # Ignored files (node_modules, .env, etc.)
+│-- 📄 package.json       # Project dependencies
+│-- 📄 README.md          # Documentation
+
+
+
