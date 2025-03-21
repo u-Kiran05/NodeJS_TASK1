@@ -39,6 +39,7 @@ A **Node.js + Express + MongoDB** REST API for managing expenses and employees.
 |--------|---------|-------------|
 | `GET` | `/employees` | Get all employees |
 | `POST` | `/employees` | Add new employee |
+| `GET` | `/employees/position/:position` | Get Specific employee |
 | `PUT` | `/employees/:id` | Update employee |
 | `DELETE` | `/employees/:id` | Delete employee |
 
