@@ -1,13 +1,12 @@
-# 📌 Expense & Employee Management API
+# 📌 Employee Management API
 
-A **Node.js + Express + MongoDB** REST API for managing expenses and employees.
+A **Node.js + Express + MongoDB** REST API for managing employees.
 
 ---
 
 ## 🚀 Features
-- ✅ **Expense Management**: Add, update, delete, and retrieve expenses.
 - ✅ **Employee Management**: Add, update, delete, and retrieve employees.
-- ✅ **Category-Based Filtering**: Retrieve expenses by category.
+- ✅ **Category-Based Filtering**: Retrieve employees by category.
 - ✅ **MongoDB Database**: Uses Mongoose for schema modeling.
 - ✅ **Environment Variables**: Uses `.env` for configuration.
 
@@ -21,7 +20,7 @@ A **Node.js + Express + MongoDB** REST API for managing expenses and employees.
 ---
 ## 📂 Project Structure
 
-📦 Expense & Employee Management API
+📦 Employee Management API
 
 │-- 📁 controller   
 │-- 📁 model        
